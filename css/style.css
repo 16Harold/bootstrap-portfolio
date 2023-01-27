@@ -1,0 +1,119 @@
+body {
+    background-color: rgba(208, 208, 208, 0.919) !important;
+  }
+  .placeholder {
+    border-radius: 50px;
+  }
+  a:hover {
+    opacity: .7 !important;
+  }
+  a:active {
+    opacity: .3 !important;
+  }
+  /* navbar */
+  .navigation {
+    margin-bottom: 60px !important; 
+  }
+  .navbar {
+    box-shadow: 0px 5px 5px  #0083fd !important;
+    background-color: rgba(208, 208, 208, 0.919) !important;
+  }
+  .h1, h4 {
+    color: #0083fd !important;
+    font-size: 2rem !important;
+  }
+  h2 {
+    color: #676767 !important;
+  }
+  #navlink {
+    color: #676767 !important;
+    font-weight: bold;
+    border-right: 1px solid rgba(89, 89, 89, 0.94) !important;
+    padding-left: 30px !important;
+  }
+  .btn {
+    background-color:  #0083fd !important;
+    color: #dadada !important;
+    border-radius: 2rem !important;
+    font-weight: bold !important;
+    border: none !important;
+  }
+  /* navbar end*/
+  .banner {
+    background-image: url(../images/bg.jpg)!important;
+    background-blend-mode: darken!important;
+    background-color: rgba(6, 68, 255, 0.8);
+    box-shadow: 0px 5px 5px  #0083fd;
+  }
+  .banner-hi {
+    background-image: url(../images/bg.jpg)!important;
+    background-blend-mode: darken!important;
+    background-color: rgba(6, 68, 255, 0.8);
+    box-shadow: 0px 5px 5px  #0083fd;
+    border-radius: 20px;
+  }
+  .img-fluid {
+    border-radius: 200px;
+  }
+  .col-md-4 {
+    border-right: 2px solid #0083fd !important;
+  }
+  /* banner animation*/
+  #trigger {
+    padding: 0 4px 0 4px !important;
+  } 
+  .animate {
+    position: relative;
+    animation: pic 6s ease-in infinite;
+    display: inline !important;
+  }
+  @keyframes pic{
+    from {bottom: -70px; opacity: 0;}
+    from {left: -70px; opacity: 0;}
+  }
+  /* my skills */
+  .icon {
+    color: #0083fd !important;
+  }
+  .col-md-7 {
+    border-right: 1px solid #0083fd !important; 
+  }
+  /* my projects */
+  .my-projects {
+    background-image: url(../images/bg.jpg)!important;
+    background-blend-mode: darken!important;
+    background-color: rgba(6, 68, 255, 0.8);
+    box-shadow: 0px 5px 5px  #0083fd;
+    margin-top: 20px !important;
+  }
+  .last-card {
+    border: none !important;
+  }
+  .card {
+    box-shadow: -10px 10px 10px  rgba(143, 143, 143, 0.519) !important;
+  }
+  .carousel-inner {
+    border-right: 2px solid #0083fd !important;
+  }
+  /* about me */
+  .d-block {
+    border-radius: 200px !important;
+  }
+  /* my contacts */
+  .my-contacts {
+    background-image: url(../images/bg.jpg)!important;
+    background-blend-mode: darken!important;
+    background-color: rgba(6, 68, 255, 0.8);
+    box-shadow: 0px 5px 5px  #0083fd;
+  }
+  .col-md-3 {
+    border-right: 2px solid #0083fd !important;
+  }
+  .card-title {
+    color: #676767 !important;
+  }
+  .c-number {
+    border: none !important;
+  }
+  /* Thats All Folks */
+  
